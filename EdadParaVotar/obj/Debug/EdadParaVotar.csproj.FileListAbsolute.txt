@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\bin\Debug\EdadParaVotar.exe.config
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\bin\Debug\EdadParaVotar.exe
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\bin\Debug\EdadParaVotar.pdb
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\obj\Debug\EdadParaVotar.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\obj\Debug\EdadParaVotar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\obj\Debug\EdadParaVotar.exe
+C:\Users\Usuario\Desktop\22-09\EdadParaVotar\EdadParaVotar\obj\Debug\EdadParaVotar.pdb

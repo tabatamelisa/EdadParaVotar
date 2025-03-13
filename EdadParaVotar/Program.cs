@@ -7,7 +7,7 @@ namespace EdadParaVotar
         static void Main(string[] args)
         {
             //Validar si el usuario puede votar
-            //Andy Garzón
+            //Tabata Vernaza
             int edad;
             do
             {
